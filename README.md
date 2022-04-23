@@ -1,6 +1,11 @@
-# Hi there 👋
+# Hi there 👋 <br/> I'm Viraj Shah
 
-[Real Time Chess](https://github.com/Capstone-Projects-2022-Spring/project-real-time-chess)
+> I am a Full Stack Web (and Application) Developer
+
+1. [Personal Projects](#personal-projects)
+2. [My Spotlight](#my-spotlight)
+
+
 
 ## Personal Projects
 
