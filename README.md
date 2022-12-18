@@ -1,9 +1,5 @@
 # Hi there 👋 <br/> I'm Viraj Shah
 
-> I am a Full Stack Web (and Application) Developer
-
-If you like what you see, contact me on [LinkedIn](https://linkedin.com/in/VirajShah21)! I'm available for hire.
-
 ## 👨‍💻 Personal (Open Source) Projects
 
 > These projects are organized starting from my best work
@@ -17,7 +13,9 @@ If you like what you see, contact me on [LinkedIn](https://linkedin.com/in/Viraj
 
 ## 🎓 Temple University Capstone Project
 
-![RealTimeChessSpotlight](https://user-images.githubusercontent.com/4074683/164947425-23b00c1a-8c5b-48e9-81d0-cc631a772c3d.png)
+<div style="text-align: center">
+  <img src="https://user-images.githubusercontent.com/4074683/164947425-23b00c1a-8c5b-48e9-81d0-cc631a772c3d.png" alt="RealTime Chess Spotlight" style="width:50%" />
+</div>
 
 The capstone course for Computer & Information Sciences at Temple University provides us the opportunity to build a project based on our own ideas from the ground up. We work in a small team using common business practices while developing the project.
 
